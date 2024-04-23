@@ -179,7 +179,7 @@ def main():
                 st.write("Hello 👋")
                 query = st.chat_input("Enter your question:")
 
-            if query:
+            if query is not None:
                 if query.lower().startswith("show entry"):
                     query_parts = query.split()
                     entry_index = int(query_parts[-1])  # Extract the index of the entry from the query
