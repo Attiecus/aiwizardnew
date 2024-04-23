@@ -1,0 +1,179 @@
+2024-04-17 08:52:30 [INFO] Final predicate set:
+2024-04-17 08:52:30 [INFO] SimplePredicate: (twoGramFingerprint, Passport)
+2024-04-17 09:14:57 [INFO] Predicate set:
+2024-04-17 09:14:57 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:17:37 [INFO] Predicate set:
+2024-04-17 09:17:37 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:25:26 [INFO] Predicate set:
+2024-04-17 09:25:26 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:26:59 [INFO] Predicate set:
+2024-04-17 09:26:59 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:27:15 [INFO] Predicate set:
+2024-04-17 09:27:15 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:27:56 [INFO] Predicate set:
+2024-04-17 09:27:56 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:29:51 [INFO] Predicate set:
+2024-04-17 09:29:51 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:30:07 [INFO] Predicate set:
+2024-04-17 09:30:07 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:33:41 [INFO] Predicate set:
+2024-04-17 09:33:41 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:39:47 [INFO] Predicate set:
+2024-04-17 09:39:47 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:40:02 [INFO] Predicate set:
+2024-04-17 09:40:02 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:41:13 [INFO] Predicate set:
+2024-04-17 09:41:13 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:42:55 [INFO] Predicate set:
+2024-04-17 09:42:55 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:43:58 [INFO] Predicate set:
+2024-04-17 09:43:58 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:44:14 [INFO] Predicate set:
+2024-04-17 09:44:14 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:52:12 [INFO] Predicate set:
+2024-04-17 09:52:12 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:53:23 [INFO] Predicate set:
+2024-04-17 09:53:23 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:55:37 [INFO] Predicate set:
+2024-04-17 09:55:37 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:57:52 [INFO] Predicate set:
+2024-04-17 09:57:52 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:58:07 [INFO] Predicate set:
+2024-04-17 09:58:07 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:58:42 [INFO] Predicate set:
+2024-04-17 09:58:42 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:59:09 [INFO] Predicate set:
+2024-04-17 09:59:09 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 09:59:23 [INFO] Predicate set:
+2024-04-17 09:59:23 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:04:12 [INFO] Predicate set:
+2024-04-17 10:04:12 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:04:27 [INFO] Predicate set:
+2024-04-17 10:04:27 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:22:30 [INFO] Predicate set:
+2024-04-17 10:22:30 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:23:04 [INFO] Predicate set:
+2024-04-17 10:23:04 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:24:02 [INFO] Predicate set:
+2024-04-17 10:24:02 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:24:16 [INFO] Predicate set:
+2024-04-17 10:24:16 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:25:51 [INFO] Predicate set:
+2024-04-17 10:25:51 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:26:35 [INFO] Predicate set:
+2024-04-17 10:26:35 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:26:50 [INFO] Predicate set:
+2024-04-17 10:26:50 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:29:36 [INFO] Predicate set:
+2024-04-17 10:29:36 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:30:32 [INFO] Predicate set:
+2024-04-17 10:30:32 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:30:47 [INFO] Predicate set:
+2024-04-17 10:30:47 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:40:04 [INFO] Predicate set:
+2024-04-17 10:40:04 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:40:11 [INFO] Predicate set:
+2024-04-17 10:40:11 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:42:46 [INFO] Predicate set:
+2024-04-17 10:42:46 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:44:30 [INFO] Predicate set:
+2024-04-17 10:44:30 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:44:56 [INFO] Predicate set:
+2024-04-17 10:44:56 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:51:44 [INFO] Predicate set:
+2024-04-17 10:51:44 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:53:59 [INFO] Predicate set:
+2024-04-17 10:53:59 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 10:56:57 [INFO] Predicate set:
+2024-04-17 10:56:57 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 11:05:24 [INFO] Predicate set:
+2024-04-17 11:05:24 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 11:05:53 [INFO] Question: how many anukool
+2024-04-17 11:05:53 [INFO] Running PandasAI with bamboo_llm LLM...
+2024-04-17 11:05:53 [INFO] Prompt ID: bc7ae012-f1f8-4a69-b831-e8ab4cc90d71
+2024-04-17 11:05:53 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-04-17 11:05:53 [INFO] Executing Step 0: ValidatePipelineInput
+2024-04-17 11:05:53 [INFO] Executing Step 1: CacheLookup
+2024-04-17 11:05:53 [INFO] Using cached response
+2024-04-17 11:05:53 [INFO] Executing Step 2: PromptGeneration
+2024-04-17 11:05:53 [INFO] Executing Step 2: Skipping...
+2024-04-17 11:05:53 [INFO] Executing Step 3: CodeGenerator
+2024-04-17 11:05:53 [INFO] Executing Step 3: Skipping...
+2024-04-17 11:05:53 [INFO] Executing Step 4: CachePopulation
+2024-04-17 11:05:53 [INFO] Executing Step 4: Skipping...
+2024-04-17 11:05:53 [INFO] Executing Step 5: CodeCleaning
+2024-04-17 11:05:53 [INFO] 
+Code running:
+```
+anukool_count = sum('anukool' in name.lower() for name in dfs[0]['Name'])
+result = {'type': 'number', 'value': anukool_count}
+        ```
+2024-04-17 11:05:53 [INFO] Executing Step 6: CodeExecution
+2024-04-17 11:05:53 [INFO] Executing Step 7: ResultValidation
+2024-04-17 11:05:53 [INFO] Answer: {'type': 'number', 'value': 19}
+2024-04-17 11:05:53 [INFO] Executing Step 8: ResultParsing
+2024-04-17 11:14:28 [INFO] Predicate set:
+2024-04-17 11:14:28 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 12:35:29 [INFO] Final predicate set:
+2024-04-17 12:35:29 [INFO] LevenshteinCanopyPredicate: (1, Traffic ID)
+2024-04-17 12:35:43 [INFO] Predicate set:
+2024-04-17 12:35:43 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 12:41:20 [INFO] Predicate set:
+2024-04-17 12:41:20 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 16:14:11 [INFO] Predicate set:
+2024-04-17 16:14:11 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-17 17:13:31 [INFO] Predicate set:
+2024-04-17 17:13:31 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-23 15:16:05 [INFO] Predicate set:
+2024-04-23 15:16:05 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-23 15:16:21 [INFO] Question: how many gender
+2024-04-23 15:16:21 [INFO] Running PandasAI with bamboo_llm LLM...
+2024-04-23 15:16:21 [INFO] Prompt ID: 4292d65e-2eb1-45a7-9fb2-22d20d7d29a3
+2024-04-23 15:16:21 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-04-23 15:16:22 [INFO] Executing Step 0: ValidatePipelineInput
+2024-04-23 15:16:22 [INFO] Executing Step 1: CacheLookup
+2024-04-23 15:16:22 [INFO] Using cached response
+2024-04-23 15:16:22 [INFO] Executing Step 2: PromptGeneration
+2024-04-23 15:16:22 [INFO] Executing Step 2: Skipping...
+2024-04-23 15:16:22 [INFO] Executing Step 3: CodeGenerator
+2024-04-23 15:16:22 [INFO] Executing Step 3: Skipping...
+2024-04-23 15:16:22 [INFO] Executing Step 4: CachePopulation
+2024-04-23 15:16:22 [INFO] Executing Step 4: Skipping...
+2024-04-23 15:16:22 [INFO] Executing Step 5: CodeCleaning
+2024-04-23 15:16:22 [INFO] 
+Code running:
+```
+df = dfs[0]
+num_genders = df['Gender'].nunique()
+result = {'type': 'number', 'value': num_genders}
+        ```
+2024-04-23 15:16:22 [INFO] Executing Step 6: CodeExecution
+2024-04-23 15:16:22 [INFO] Executing Step 7: ResultValidation
+2024-04-23 15:16:22 [INFO] Answer: {'type': 'number', 'value': 2}
+2024-04-23 15:16:22 [INFO] Executing Step 8: ResultParsing
+2024-04-23 15:21:33 [INFO] Predicate set:
+2024-04-23 15:21:33 [INFO] SimplePredicate: (commonIntegerPredicate, DOB)
+2024-04-23 15:21:50 [INFO] Question: how many anukool
+2024-04-23 15:21:50 [INFO] Running PandasAI with bamboo_llm LLM...
+2024-04-23 15:21:50 [INFO] Prompt ID: 9b813814-996b-4126-a57c-e74408929185
+2024-04-23 15:21:50 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-04-23 15:21:50 [INFO] Executing Step 0: ValidatePipelineInput
+2024-04-23 15:21:50 [INFO] Executing Step 1: CacheLookup
+2024-04-23 15:21:50 [INFO] Using cached response
+2024-04-23 15:21:50 [INFO] Executing Step 2: PromptGeneration
+2024-04-23 15:21:50 [INFO] Executing Step 2: Skipping...
+2024-04-23 15:21:50 [INFO] Executing Step 3: CodeGenerator
+2024-04-23 15:21:50 [INFO] Executing Step 3: Skipping...
+2024-04-23 15:21:50 [INFO] Executing Step 4: CachePopulation
+2024-04-23 15:21:50 [INFO] Executing Step 4: Skipping...
+2024-04-23 15:21:50 [INFO] Executing Step 5: CodeCleaning
+2024-04-23 15:21:50 [INFO] 
+Code running:
+```
+anukool_count = sum('anukool' in name.lower() for name in dfs[0]['Name'])
+result = {'type': 'number', 'value': anukool_count}
+        ```
+2024-04-23 15:21:50 [INFO] Executing Step 6: CodeExecution
+2024-04-23 15:21:50 [INFO] Executing Step 7: ResultValidation
+2024-04-23 15:21:50 [INFO] Answer: {'type': 'number', 'value': 19}
+2024-04-23 15:21:50 [INFO] Executing Step 8: ResultParsing
