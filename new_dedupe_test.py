@@ -179,19 +179,10 @@ def main():
                 st.write("Hello 👋")
                 query = st.chat_input("Enter your question:")
 
-            if query is not None:
-                if query.lower().startswith("show entry"):
-                    query_parts = query.split()
-                    entry_index = int(query_parts[-1])  # Extract the index of the entry from the query
-                    if entry_index >= 0 and entry_index < len(processed_df):
-                        entry_df = processed_df.iloc[entry_index:entry_index+1]  # Get the specific entry from the dataframe
-                        st.write(entry_df)  # Display the specific entry
-                    else:
-                        st.error("Invalid entry index.")
-                else:
-                    st.write("User question:",query)
-                    response = df.chat(query)
-                    st.success(response)
+           
+                st.write("User question:",query)
+                response = df.chat(query)
+                st.success(response)
 
     # Count duplicate and unique values
     if "modif" in st.session_state:
